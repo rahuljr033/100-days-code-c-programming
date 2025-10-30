@@ -1,14 +1,39 @@
-C Programming 100 days code
+day 01.c
+day 02.c
+day 03.c
+day 04.c
+day 05.c
+day 06.c
+day 07.c
+day 08.c
+day 09.c
+day 10 .c
+day 10.c
+day 11.c
+day 13.c
+day 14.c
+day 15.c
+day 16.c
+day 17.c
+day 18.c
+day 19.c
+day 20.c
+day 21.c
+day 22 .c
+day 23.c
+day 24.c
+day 25.c
+day 26.c
+day 27.c
+day 28.c
+day 29.c
+day 30.c
+day 31.c
+day 32.c
+day 33.c
+day 34.c
+day 35.c
+day 36.c
+day 37.c
+day 38.c
 
-Student Details
-
-Name: Rahul singh
-
-SAP ID: 590029309
-
-University: UPES, Bidholi Campus
-Batch: 78
-
-Course Information
-Course: C Programming Lab
-Faculty: Sandip Chaurasiya Semester: 1st Semester
